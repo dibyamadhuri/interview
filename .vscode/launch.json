@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Encpsulation",
+            "request": "launch",
+            "mainClass": "Encpsulation",
+            "projectName": "Interview_d4e0d4dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interfaces",
+            "request": "launch",
+            "mainClass": "Interfaces",
+            "projectName": "Interview_d4e0d4dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch RepeatedString",
+            "request": "launch",
+            "mainClass": "RepeatedString",
+            "projectName": "Interview_d4e0d4dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountingValley",
+            "request": "launch",
+            "mainClass": "CountingValley",
+            "projectName": "Interview_d4e0d4dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SalesByMatch",
+            "request": "launch",
+            "mainClass": "SalesByMatch",
+            "projectName": "Interview_d4e0d4dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileDemo",
+            "request": "launch",
+            "mainClass": "FileDemo",
+            "projectName": "Interview_d4e0d4dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringDemo",
+            "request": "launch",
+            "mainClass": "StringDemo",
+            "projectName": "Interview_d4e0d4dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataHiding",
+            "request": "launch",
+            "mainClass": "DataHiding",
+            "projectName": "Interview_d4e0d4dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetExample",
+            "request": "launch",
+            "mainClass": "HashSetExample",
+            "projectName": "Interview_d4e0d4dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "Interview_d4e0d4dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Interview_d4e0d4dd"
+        }
+    ]
+}
