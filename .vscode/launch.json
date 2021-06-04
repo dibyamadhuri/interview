@@ -9,6 +9,13 @@
             "name": "Launch Encpsulation",
             "request": "launch",
             "mainClass": "Encpsulation",
+            "projectName": "interview_2c834632"
+        },
+        {
+            "type": "java",
+            "name": "Launch Encpsulation",
+            "request": "launch",
+            "mainClass": "Encpsulation",
             "projectName": "Interview_d4e0d4dd"
         },
         {
